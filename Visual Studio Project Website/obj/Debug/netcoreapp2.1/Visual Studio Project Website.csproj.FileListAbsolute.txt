@@ -1,0 +1,32 @@
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.deps.json
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.dll
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.pdb
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.Views.dll
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\bin\Debug\netcoreapp2.1\Visual Studio Project Website.Views.pdb
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.RazorAssemblyInfo.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.RazorAssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.TagHelpers.input.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.TagHelpers.output.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.RazorCoreGenerate.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.Views.pdb
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.dll
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.pdb
+C:\Users\Student\Documents\GitHub\Visual Studio Project Website\Visual Studio Project Website\obj\Debug\netcoreapp2.1\Visual Studio Project Website.csproj.CopyComplete
